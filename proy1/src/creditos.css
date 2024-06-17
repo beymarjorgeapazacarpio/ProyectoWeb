@@ -1,0 +1,31 @@
+.creditos-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .creditos-heading {
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .creditos-content {
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+  .creditos-content p {
+    margin: 10px 0;
+  }
+  
+  .creditos-content strong {
+    color: #333;
+  }
+  
